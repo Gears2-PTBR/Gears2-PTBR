@@ -33,7 +33,7 @@ novo que as versões suportadas, o instalador avisa — aguarde a atualização 
 - As vozes foram geradas com IA (ElevenLabs), **sem clonar as vozes dos atores originais**.
 - Os vídeos usam voice-over: o áudio original fica baixinho por baixo do português.
 - **Nenhum arquivo do jogo é distribuído**: o instalador monta tudo a partir da sua cópia.
-- O runtime com dublagem é baseado no [COGBox](https://github.com/Shagg) do Shagg (licença MIT).
+- O runtime com dublagem é baseado no [COGBox](https://github.com/Shagg88/COGBox) do Shagg (licença MIT).
 
 ## ☕ Apoie
 Curtiu a tradução? O instalador tem um QR Code Pix pra quem quiser pagar um café e incentivar o trabalho.
