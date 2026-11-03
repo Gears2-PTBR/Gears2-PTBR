@@ -25,9 +25,18 @@ Pode instalar um ou os dois.
 
 O botão **Desinstalar** devolve tudo ao original.
 
-## 🔄 Versões novas do COGBox
-A dublagem precisa de um runtime específico para cada versão do COGBox. Se o seu COGBox for mais
-novo que as versões suportadas, o instalador avisa — aguarde a atualização aqui nos Releases.
+## 🔄 Quando o COGBox atualizar
+A dublagem precisa de um runtime específico para cada versão do COGBox. A cada versão nova do COGBox
+sai um pacote novo da dublagem aqui nos [Releases](https://github.com/Gears2-PTBR/Gears2-PTBR/releases).
+
+- Se você atualizar o COGBox, **as vozes dentro do jogo voltam para o inglês**. O jogo continua
+  funcionando normalmente, e a tradução e os vídeos dublados continuam lá.
+- Para voltar a dublagem: baixe o pacote da dublagem da versão nova e rode o `Instalador.exe` de novo.
+  **Não precisa desinstalar antes.**
+- Se ainda não saiu o pacote para a sua versão, o instalador avisa e não mexe em nada.
+- 💡 **Dica:** se não quiser ficar sem as vozes, espere sair a dublagem da versão nova antes de atualizar o COGBox.
+
+A tradução não depende da versão do COGBox e não precisa ser reinstalada.
 
 ## ℹ️ Sobre
 - As vozes foram geradas com IA (ElevenLabs), **sem clonar as vozes dos atores originais**.
