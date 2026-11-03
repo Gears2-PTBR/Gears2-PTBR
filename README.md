@@ -13,7 +13,7 @@ Baixe na página de **[Releases](https://github.com/Gears2-PTBR/Gears2-PTBR/rele
 Pode instalar um ou os dois.
 
 ## ✅ Requisitos
-- COGBox **0.3.7** ou **0.4.1**
+- COGBox **0.3.7**, **0.4.1** ou **0.4.2**
 - Gears of War 2 com a **Title Update 6**
 
 ## 🛠️ Como instalar
